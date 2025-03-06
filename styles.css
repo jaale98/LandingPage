@@ -1,0 +1,58 @@
+header {
+    display: flex;
+    flex-direction: column;
+}
+
+.navbar {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar ul {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
+
+.hero {
+    display: flex;
+}
+
+.heroimage {
+    height: 200px;
+    width: auto;
+}
+
+.main1 {
+    display: flex;
+    flex-direction: column;
+}
+
+.maincontent {
+    display: flex;
+}
+
+.maincontentsquares {
+    display: flex;
+    flex-direction: column;
+}
+
+.mainimage {
+    height: 150px;
+    width: 150px;
+}
+
+.main3 {
+    display: flex;
+}
+
+.main3content {
+    display: flex;
+}
+
+
+
+
+
